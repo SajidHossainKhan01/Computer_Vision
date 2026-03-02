@@ -1,0 +1,1 @@
+C:\Monal\Work\AllLight\Krish-sir\KN-CV-Udemy\Phase-2\Projects\Yolo_image_search\data\processed\coco-val-2017-500\metadata.json
